@@ -20,7 +20,7 @@ I'm a first-year **CSE (Cybersecurity)** student at **MIT Bengaluru (not *that* 
 
 ##  🌟 **Let’s Connect**  
 -  🌐 **Portfolio Website**: [Link coming soon!](#)  
--  💼 **LinkedIn**: [Revanth Anil Kumar](#)  
+-  💼 **LinkedIn**: [Revanth Anil Kumar](#https://www.linkedin.com/in/revanth-anil-kumar/)  
 -  😺 **GitHub**: You're already here! 😊  
 
 ---
