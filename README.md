@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Revanth Anil Kumar  
 
-<!--
-**AzxRevanth/AzxRevanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Welcome to my GitHub!**  
+I'm a first-year **CSE (Cybersecurity)** student at **MIT Bengaluru (not *that* MIT, but it's still awesome).**, driven by a passion for coding, problem-solving, and creating impactful projects.   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 **What I’m Up To**  
+- Currently working through CS50 and its interesting problem sets
+- Learning C and Javascript
+
+---
+
+## 🛠️ **Skills and Tools**  
+- **Programming Languages**: C | Python | JavaScript  
+- **Web Development**: HTML | CSS | Bootstrap  
+- **Graphic Design** Sometimes, I trade code for creativity—designing posters and cool social media content!🎨 
+
+---
+
+##  🌟 **Let’s Connect**  
+-  🌐 **Portfolio Website**: [Link coming soon!](#)  
+-  💼 **LinkedIn**: [Revanth Anil Kumar](#)  
+-  😺 **GitHub**: You're already here! 😊  
+
+---
+Thanks for stopping by! Feel free to explore my repositories and connect with me to collaborate or share ideas.  
