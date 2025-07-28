@@ -6,16 +6,19 @@ I'm a first-year **CSE (Cybersecurity)** student, driven by a passion for coding
 ---
 
 ## 🎯 **What I’m Up To**  
-- Currently working through CS50 and its interesting problem sets.
-- Learning React.js
-- Learning Java and Javascript
-
+- 🧠 Currently diving into Machine Learning and Deep Learning
+- 💻 Improving my frontend game (React + JS)
+- 🤖 Building AI agents with n8n and automation tools
 ---
 
 ## 🛠️ **Skills and Tools**  
 - **Programming Languages**: C | Python | JavaScript | Java
-- **Web Development**: HTML | CSS | Bootstrap | React.js
-- **Graphic Design** Sometimes, I trade code for creativity—designing posters and cool social media content!🎨 
+- **Web Development**: HTML | CSS | Bootstrap | React.js | Vercel | Railway
+- **Graphic Design** : Figma | Miro | Canva
+  Sometimes, I trade code for creativity—designing posters and cool social media content!🎨
+- Git | Github
+- Backend: mySQL | Node.js | Express.js | Flask
+- Agentic AI and Automation: n8n
 
 ---
 
