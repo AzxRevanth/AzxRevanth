@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Revanth Anil Kumar  
 
 🌟 **Welcome to my GitHub!**  
-I'm a first-year **CSE (Cybersecurity)** student, driven by a passion for coding, problem-solving, and creating impactful projects.   
+I'm a second-year CSE student, driven by a passion for coding, problem-solving, and creating impactful projects.
+My currently learning AI/ML, Cybersecurity and Quant.
 
 ---
 
