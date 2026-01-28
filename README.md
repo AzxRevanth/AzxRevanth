@@ -1,13 +1,9 @@
 # Hi there! 👋 I'm Revanth Anil Kumar  
 
-🌟 **Welcome to my GitHub!**  
+🌟 **Welcome to my GitHub!** 
 
-![](https://github-readme-stats.vercel.app/api?username=AzxRevanth&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AzxRevanth&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzxRevanth&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AzxRevanth&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://nirzak-streak-stats.vercel.app/?user=AzxRevanth&theme=monokai&hide_border=false)
 
 I’m a second year Computer Science student who enjoys building things that actually work.
 I spend most of my time coding, making projects, breaking things, fixing them, and learning how real systems are built.
